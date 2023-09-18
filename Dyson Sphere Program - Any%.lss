@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Dyson Sphere Program</GameName>
+  <CategoryName>Any%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>22</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/18/2023 05:11:34" isStartedSynced="True" ended="09/18/2023 05:11:52" isEndedSynced="True" />
+    <Attempt id="2" started="09/18/2023 07:05:26" isStartedSynced="True" ended="09/18/2023 07:09:32" isEndedSynced="True" />
+    <Attempt id="3" started="09/18/2023 07:21:03" isStartedSynced="True" ended="09/18/2023 07:37:43" isEndedSynced="True" />
+    <Attempt id="4" started="09/18/2023 09:55:13" isStartedSynced="True" ended="09/18/2023 09:55:31" isEndedSynced="True" />
+    <Attempt id="5" started="09/18/2023 09:57:54" isStartedSynced="True" ended="09/18/2023 09:58:05" isEndedSynced="True" />
+    <Attempt id="6" started="09/18/2023 11:06:55" isStartedSynced="True" ended="09/18/2023 11:10:27" isEndedSynced="True" />
+    <Attempt id="7" started="09/18/2023 11:10:53" isStartedSynced="True" ended="09/18/2023 11:11:49" isEndedSynced="True" />
+    <Attempt id="8" started="09/18/2023 11:11:54" isStartedSynced="True" ended="09/18/2023 11:12:13" isEndedSynced="True" />
+    <Attempt id="9" started="09/18/2023 11:24:11" isStartedSynced="True" ended="09/18/2023 11:25:13" isEndedSynced="True" />
+    <Attempt id="10" started="09/18/2023 11:25:28" isStartedSynced="True" ended="09/18/2023 11:26:00" isEndedSynced="True" />
+    <Attempt id="11" started="09/18/2023 11:26:13" isStartedSynced="True" ended="09/18/2023 11:26:31" isEndedSynced="True" />
+    <Attempt id="12" started="09/18/2023 11:26:35" isStartedSynced="True" ended="09/18/2023 11:32:37" isEndedSynced="True" />
+    <Attempt id="13" started="09/18/2023 11:32:49" isStartedSynced="True" ended="09/18/2023 11:35:53" isEndedSynced="True" />
+    <Attempt id="14" started="09/18/2023 11:35:58" isStartedSynced="True" ended="09/18/2023 11:36:14" isEndedSynced="True" />
+    <Attempt id="15" started="09/18/2023 12:26:21" isStartedSynced="True" ended="09/18/2023 12:27:41" isEndedSynced="True" />
+    <Attempt id="16" started="09/18/2023 12:29:58" isStartedSynced="True" ended="09/18/2023 12:30:30" isEndedSynced="True" />
+    <Attempt id="17" started="09/18/2023 12:30:38" isStartedSynced="True" ended="09/18/2023 12:32:05" isEndedSynced="True" />
+    <Attempt id="18" started="09/18/2023 12:32:16" isStartedSynced="True" ended="09/18/2023 12:36:38" isEndedSynced="True">
+      <RealTime>00:04:21.5038785</RealTime>
+      <GameTime>00:04:20.4673788</GameTime>
+    </Attempt>
+    <Attempt id="19" started="09/18/2023 12:38:35" isStartedSynced="True" ended="09/18/2023 12:40:26" isEndedSynced="True" />
+    <Attempt id="20" started="09/18/2023 12:44:23" isStartedSynced="True" ended="09/18/2023 13:00:50" isEndedSynced="True">
+      <RealTime>00:16:27.7558381</RealTime>
+      <GameTime>00:16:26.7672382</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>电磁矩阵</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:21.1272752</RealTime>
+          <GameTime>00:04:20.0835438</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:58.3636946</RealTime>
+        <GameTime>00:00:58.4332577</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:04:21.1272752</RealTime>
+          <GameTime>00:04:20.0835438</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:58.3636946</RealTime>
+          <GameTime>00:00:58.4332577</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>能量矩阵</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:21.1915196</RealTime>
+          <GameTime>00:04:20.1675154</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.0642444</RealTime>
+        <GameTime>00:00:00.0839716</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:00:00.0642444</RealTime>
+          <GameTime>00:00:00.0839716</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:08:23.4548457</RealTime>
+          <GameTime>00:08:22.5169947</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>结构矩阵</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:21.2520072</RealTime>
+          <GameTime>00:04:20.2174061</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.0604876</RealTime>
+        <GameTime>00:00:00.0498907</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:00:00.0604876</RealTime>
+          <GameTime>00:00:00.0498907</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:01:19.4372846</RealTime>
+          <GameTime>00:01:19.4330083</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>信息矩阵</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:21.3138021</RealTime>
+          <GameTime>00:04:20.2673927</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.0617949</RealTime>
+        <GameTime>00:00:00.0499866</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:00:00.0617949</RealTime>
+          <GameTime>00:00:00.0499866</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:55.1243790</RealTime>
+          <GameTime>00:00:55.1339896</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>引力矩阵</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:21.3806639</RealTime>
+          <GameTime>00:04:20.3336796</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.0668618</RealTime>
+        <GameTime>00:00:00.0662869</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:00:00.0668618</RealTime>
+          <GameTime>00:00:00.0662869</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:01:50.0621912</RealTime>
+          <GameTime>00:01:50.0661109</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>宇宙矩阵</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:21.4391492</RealTime>
+          <GameTime>00:04:20.4003605</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.0584853</RealTime>
+        <GameTime>00:00:00.0666809</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:00:00.0584853</RealTime>
+          <GameTime>00:00:00.0666809</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:41.8128028</RealTime>
+          <GameTime>00:00:41.8168884</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>任务完成！</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:21.5038785</RealTime>
+          <GameTime>00:04:20.4673788</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.0647293</RealTime>
+        <GameTime>00:00:00.0670183</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:00:00.0647293</RealTime>
+          <GameTime>00:00:00.0670183</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:02:19.5006402</RealTime>
+          <GameTime>00:02:19.3669886</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
